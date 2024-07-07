@@ -117,3 +117,5 @@ while apagar==0:
     if apagar == 1:
         break
     draw_move(board)
+
+# Este comentario es el único cambio que se realizó en el código original.
